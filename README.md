@@ -1,2 +1,3 @@
-Установить pysocks и всё, что pythot просит
-pip install pysocks
+Установить python
+установить requirements.txt
+$ pip install -r requirements.txt
